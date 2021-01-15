@@ -10,13 +10,13 @@
 ---
 
 <a href="https://github.com/AbiePerdanaKusuma1054/Semester-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbiePerdanaKusuma1054&repo=WebLanjut&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbiePerdanaKusuma1054&repo=Semester-1&theme=vue-dark" />
 </a>
 <a href="https://github.com/AbiePerdanaKusuma1054/Semester-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbiePerdanaKusuma1054&repo=WebLanjut&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbiePerdanaKusuma1054&repo=Semester-2&theme=vue-dark" />
 </a>
 <a href="https://github.com/AbiePerdanaKusuma1054/Semester-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbiePerdanaKusuma1054&repo=WebLanjut&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbiePerdanaKusuma1054&repo=Semester-3&theme=vue-dark" />
 </a>
 <a href="https://github.com/AbiePerdanaKusuma1054/TAM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbiePerdanaKusuma1054&repo=TAM&theme=vue-dark" />
