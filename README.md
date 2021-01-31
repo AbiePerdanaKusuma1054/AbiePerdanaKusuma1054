@@ -21,6 +21,9 @@
 <a href="https://github.com/AbiePerdanaKusuma1054/TAM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbiePerdanaKusuma1054&repo=TAM&theme=vue-dark" />
 </a>
+<a href="https://github.com/Fikrimulya23/MUX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fikrimulya23&repo=MUX&theme=vue-dark" />
+</a>
 
 ---
 
