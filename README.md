@@ -24,6 +24,15 @@
 <a href="https://github.com/Fikrimulya23/MUX">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fikrimulya23&repo=MUX&theme=vue-dark" />
 </a>
+<a href="https://github.com/AbiePerdanaKusuma1054/Tugas-0-Etprof">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbiePerdanaKusuma1054&repo=Tugas-0-Etprof&theme=vue-dark" />
+</a>
+<a href="https://github.com/AbiePerdanaKusuma1054/Sistem-Manajemen-Proyek-SIMAPRO-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbiePerdanaKusuma1054&repo=Sistem-Manajemen-Proyek-SIMAPRO-&theme=vue-dark" />
+</a>
+<a href="https://github.com/asbiqalalawi/Waller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asbiqalalawi&repo=Waller&theme=vue-dark" />
+</a>
 
 ---
 
@@ -82,6 +91,6 @@
 
 
 
-[instagram]: https://www.instagram.com/m.nur.ashiddiqi/
+[instagram]: https://www.instagram.com/abiperdana.k/
 [facebook]: https://www.facebook.com/abi.parti.9/
-[github]: https://github.com/abiperdana.k/
+[github]: https://github.com/AbiePerdanaKusuma1054/
